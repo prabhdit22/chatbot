@@ -1,0 +1,17 @@
+{
+    "name": "prabhdit22/chatbot",
+    "description": "Creating a package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Prabhdit22\\Chatbot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Prabhdit Singh"
+        }
+    ],
+    "require": {}
+}
